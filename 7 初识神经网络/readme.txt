@@ -1,1 +1,0 @@
-1.py: Forward propagation of neuron network

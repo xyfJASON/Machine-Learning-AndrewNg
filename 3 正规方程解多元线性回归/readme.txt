@@ -1,1 +1,0 @@
-1.py: Solve linear regression using normal equation
