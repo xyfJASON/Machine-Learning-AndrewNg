@@ -7,5 +7,5 @@ codes 文件夹下是我对练习题的 `python` 实现，注意编号是自定�
 
 course materials 文件夹下是 8 次作业的 pdf 文件和数据。
 
-notes 文件夹下是我的 hexo 博客笔记的 markdown 文件，博客地址：https://xyfjason.top/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/
+notes 文件夹下是我的 hexo 博客笔记的 markdown 文件。
 
